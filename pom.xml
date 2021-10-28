@@ -285,23 +285,11 @@
             <version>5.5.7</version>
         </dependency>
 
-        <!--spring security-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
-
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt</artifactId>
             <version>0.9.1</version>
         </dependency>
-
-        <!--spring security oauth2.0-->
-        <!--<dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-oauth2</artifactId>
-        </dependency>-->
 
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
