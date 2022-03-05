@@ -137,56 +137,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="feat：提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="302" y="28" key="CommitChangelistDialog2" timestamp="1632639743487">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state x="302" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1631014943134" />
-    <state x="302" y="28" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1631083874939" />
-    <state x="302" y="28" key="CommitChangelistDialog2/0.23.1440.803@0.23.1440.803" timestamp="1632639743487" />
-    <state x="302" y="28" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1630209138818" />
-    <state x="144" y="94" key="DiffContextDialog" timestamp="1630214128227">
+    <state x="302" y="23" key="CommitChangelistDialog2" timestamp="1646493671515">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="144" y="94" key="DiffContextDialog/0.23.1440.800@0.23.1440.800" timestamp="1630214128227" />
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom" timestamp="1631083883107">
+    <state x="302" y="23" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1646493671515" />
+    <state x="144" y="89" key="MergeDialog" timestamp="1646493693036">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1631015933796" />
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1631083883107" />
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1630545265497" />
-    <state width="1396" height="201" key="GridCell.Tab.0.center" timestamp="1631083883106">
+    <state x="144" y="89" key="MergeDialog/0.23.1440.800@0.23.1440.800" timestamp="1646493693036" />
+    <state x="431" y="143" key="MultipleFileMergeDialog" timestamp="1646493696201">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1631015933795" />
-    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1631083883106" />
-    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1630545265496" />
-    <state width="1396" height="201" key="GridCell.Tab.0.left" timestamp="1631083883105">
+    <state x="431" y="143" key="MultipleFileMergeDialog/0.23.1440.800@0.23.1440.800" timestamp="1646493696201" />
+    <state x="320" y="160" key="Vcs.Push.Dialog.v2" timestamp="1646493706058">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1631015933794" />
-    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1631083883105" />
-    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1630545265495" />
-    <state width="1396" height="201" key="GridCell.Tab.0.right" timestamp="1631083883106">
-      <screen x="0" y="23" width="1440" height="800" />
-    </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1631015933795" />
-    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1631083883106" />
-    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1630545265496" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1630240238368">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state x="221" y="63" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1630240238368" />
-    <state x="221" y="64" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1630209897561" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1632639746312">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1631014946350" />
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1631083878135" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1632639746312" />
-    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.805@0.23.1440.805" timestamp="1630209142751" />
-    <state x="382" y="221" key="git4idea.merge.GitPullDialog" timestamp="1630240290859">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state x="382" y="221" key="git4idea.merge.GitPullDialog/0.23.1440.803@0.23.1440.803" timestamp="1630240290859" />
+    <state x="320" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1646493706058" />
   </component>
 </project>
